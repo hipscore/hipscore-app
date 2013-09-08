@@ -2,6 +2,8 @@
   "name": "songs",
   "description": "songs",
   "dependencies": {
+    "component/map": "*",
+    "component/each": "*",
     "visionmedia/superagent": "*"
   },
   "scripts": ["songs.js"],

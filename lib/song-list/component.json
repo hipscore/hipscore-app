@@ -1,5 +1,5 @@
 {
-  "name": "song",
+  "name": "song-list",
   "description": "song model",
   "dependencies": {
     "component/each": "*",

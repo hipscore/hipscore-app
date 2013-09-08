@@ -2,11 +2,16 @@
   "name": "boot",
   "description": "bootstrap component",
   "dependencies": {
+    "component/domify": "*",
     "component/each": "*",
     "component/map": "*",
+    "component/query": "*",
     "ianstormtaylor/router": "*"
   },
-  "local": ["songs", "song-list"],
+  "templates": [
+    "template.html"
+  ],
+  "local": ["song-list"],
   "scripts": ["boot.js"],
   "main": "boot.js"
 }

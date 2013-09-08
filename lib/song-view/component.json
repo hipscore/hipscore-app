@@ -2,12 +2,16 @@
   "name": "song-view",
   "description": "song view",
   "dependencies": {
+    "component/domify": "*",
     "component/map": "*",
     "component/reactive": "*"
   },
   "scripts": ["song-view.js"],
   "templates": [
     "template.html"
+  ],
+  "styles": [
+    "song-view.css"
   ],
   "main": "song-view.js"
 }
