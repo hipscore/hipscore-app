@@ -11,7 +11,7 @@
   "templates": [
     "template.html"
   ],
-  "local": ["song-list"],
+  "local": ["song-list", "profile-view"],
   "scripts": ["boot.js"],
   "main": "boot.js"
 }

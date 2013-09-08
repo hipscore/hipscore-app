@@ -2,7 +2,9 @@
   "name": "song",
   "description": "song model",
   "dependencies": {
-    "component/model": "*"
+    "component/map": "*",
+    "component/model": "*",
+    "visionmedia/superagent": "*"
   },
   "scripts": ["song.js"],
   "main": "song.js"

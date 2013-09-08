@@ -1,0 +1,18 @@
+{
+  "name": "profile-view",
+  "description": "profile-view",
+  "dependencies": {
+    "component/domify": "*",
+    "component/each": "*",
+    "component/reactive": "*",
+    "component/relative-date": "*"
+  },
+  "scripts": ["profile-view.js"],
+  "local": [
+    "user"
+  ],
+  "templates": [
+    "template.html"
+  ],
+  "main": "profile-view.js"
+}
