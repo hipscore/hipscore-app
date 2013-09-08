@@ -1,0 +1,12 @@
+{
+  "name": "songs",
+  "description": "songs",
+  "dependencies": {
+    "visionmedia/superagent": "*"
+  },
+  "scripts": ["songs.js"],
+  "local": [
+    "song"
+  ],
+  "main": "songs.js"
+}

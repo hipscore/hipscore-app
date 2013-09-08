@@ -1,0 +1,13 @@
+{
+  "name": "song-view",
+  "description": "song view",
+  "dependencies": {
+    "component/map": "*",
+    "component/reactive": "*"
+  },
+  "scripts": ["song-view.js"],
+  "templates": [
+    "template.html"
+  ],
+  "main": "song-view.js"
+}

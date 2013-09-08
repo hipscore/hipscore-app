@@ -1,5 +1,5 @@
 
-build: components index.js hipscore-app.css template.js
+build: components lib
 	@component build --dev
 
 template.js: template.html

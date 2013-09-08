@@ -7,12 +7,6 @@
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "main": "index.js",
-  "scripts": [
-    "index.js",
-    "template.js"
-  ],
-  "styles": [
-    "hipscore-app.css"
-  ]
+  "paths": ["lib"],
+  "local": ["boot"]
 }

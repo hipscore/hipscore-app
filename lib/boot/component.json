@@ -1,0 +1,12 @@
+{
+  "name": "boot",
+  "description": "bootstrap component",
+  "dependencies": {
+    "component/each": "*",
+    "component/map": "*",
+    "ianstormtaylor/router": "*"
+  },
+  "local": ["songs", "song-list"],
+  "scripts": ["boot.js"],
+  "main": "boot.js"
+}
